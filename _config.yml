@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+title:              Katie Angermeier Haab
+bio:                'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fames ac turpis egestas sed. Pretium quam vulputate dignissim suspendisse. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Vitae nunc sed velit dignissim sodales. Porttitor massa id neque aliquam vestibulum morbi blandit. Mi ipsum faucibus vitae aliquet nec ullamcorper sit. Urna nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Posuere ac ut consequat semper. Ac ut consequat semper viverra nam.'
+description:        "Katie is the best!"
+reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+#logo:               'assets/img/logo.png'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://taylantatli.github.io/Moon
+locale:             en_UK
+url:                http://127.0.0.1:4000/
 
 # Jekyll
 permalink:          /:title/
@@ -74,3 +74,4 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+github: [metadata] 

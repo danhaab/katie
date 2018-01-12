@@ -19,7 +19,7 @@
 	button {
 		top: 0;
 		left: 0;
-		background: $comp-color;
+		background: $white;
 		border: none;
 		width: 48px;
 		height: 45px;
@@ -44,12 +44,12 @@
 		position: absolute;
 		width: 68%;
 		height: 5px;
-		background: $white;
+		background: $black;
 		top: 10px;
 		left: 16%;
 		box-shadow: 
-			0 10px 0 $white, 
-			0 20px 0 $white;
+			0 10px 0 $black, 
+			0 20px 0 $black;
 	}
 	button.dl-active {
 		display: none;
@@ -90,7 +90,7 @@
 			@include font-rem(14);
 			line-height: 20px;
 			font-weight: 400;
-			color: $white;
+			color: $black;
 			outline: none;
 			text-decoration: none;
 		}
@@ -104,7 +104,7 @@
 			top: 0;
 			line-height: 40px;
 			font-family: 'fontawesome';
-			color: $white;
+			color: $black;
 			speak: none;
 			-webkit-font-smoothing: antialiased;
 			content: "\f105";
@@ -360,7 +360,7 @@ All this is done for any sub-level being entered.
 .dl-menuwrapper button:hover,
 .dl-menuwrapper button.dl-active,
 .dl-menuwrapper ul {
-	background: $comp-color;
+	background: $white;
 }
 // Fix for IE
 .dl-menu li {
