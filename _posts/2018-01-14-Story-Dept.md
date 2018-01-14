@@ -1,16 +1,16 @@
 ---
-layout: post
-title:  "Eat Your Words"
-date:   2018-01-14
-image: https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-excerpt: "Excerpt"
-event: true
-tag:
-- jekyll 
+title: Story Department
+date: 2018-01-14 00:00:00 Z
+tags:
+- jekyll
 - moon
 - blog
 - about
 - theme
+layout: post
+image: https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+excerpt: Excerpt
+event: true
 comments: true
 ---
 

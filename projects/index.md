@@ -1,6 +1,7 @@
 ---
-layout: project
 title: Selected Work
-excerpt: "Selected Work"
+layout: project
+excerpt: Selected Work
 comments: false
 ---
+

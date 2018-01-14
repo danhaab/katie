@@ -1,6 +1,7 @@
 ---
-layout: writing
 title: Selected Writing
-excerpt: "Selected Writing"
+layout: writing
+excerpt: Selected Writing
 comments: false
 ---
+
