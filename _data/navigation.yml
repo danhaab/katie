@@ -2,7 +2,11 @@
 
 - title: Projects
   url: /projects/
+- title: Events
+  url: /events/
 - title: Writing
+  url: /writing/
+- title: Examples
   url: /posts/
 - title: About
   url: /about/

@@ -2,6 +2,7 @@
 layout: post
 title:  "Moon Jekyll Theme"
 date:   2016-04-06
+image: https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
