@@ -1,6 +1,7 @@
 ---
-layout: events
 title: Event Coordination
-excerpt: "Event Coordination"
+layout: events
+excerpt: Event Coordination
 comments: false
 ---
+

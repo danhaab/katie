@@ -1,9 +1,12 @@
 ---
+title: Business Writing
+date: 2012-05-22 00:00:00 Z
+tags:
+- sample post
+- readability
+- test
 layout: post
-title: "Business Writing"
-date: 2012-05-22
-excerpt: "excerpt"
-tags: [sample post, readability, test]
+excerpt: excerpt
 writing: true
 comments: false
 ---

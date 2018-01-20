@@ -1,16 +1,22 @@
 ---
+<<<<<<< HEAD:_posts/2018-14-01-BookLaunches.md
 layout: post
-title:  "Austin Bat Cave Rebrand"
+title:  "Book Launches"
 date:   2018-01-14
 image: https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-excerpt: "Building a new identity"
-project: true
+excerpt: "Excerpt"
+event: true
 tag:
 - jekyll 
+
 - moon
 - blog
 - about
 - theme
+layout: post
+image: https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+excerpt: Excerpt
+event: true
 comments: true
 ---
 
