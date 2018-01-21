@@ -24,12 +24,13 @@ layout: compress
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %} 
-                        {% if post.project == null and post.published == true %}
+                        {% if post.project == null and post.published %}
                     <ul>
                         <li class="wow fadeIn" data-wow-duration="2.0s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read</a>
+                            <hr class="hr-line">
                         </li>
                     </ul>
                         {% endif %}
