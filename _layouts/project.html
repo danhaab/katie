@@ -24,11 +24,11 @@ layout: compress
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %} 
-                        {% if post.project %}
+                        {% if post.project and post.published %}
                     <ul>
                         <li class="wow fadeIn" data-wow-duration="2.0s">
                             <span>
-                                <img src="{{ post.image }}" class="zoombtn animate">
+                                <img src="{{ post.image }}" class="animate">
                                 <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                                 <p>{{ post.excerpt }}</p>
                                 <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>

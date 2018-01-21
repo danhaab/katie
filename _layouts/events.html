@@ -24,7 +24,7 @@ layout: compress
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %} 
-                        {% if post.event %}
+                        {% if post.event and post.published %}
                     <ul>
                         <li class="wow fadeIn" data-wow-duration="2.0s">
                             <span>
