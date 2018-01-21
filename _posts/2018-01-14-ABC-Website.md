@@ -8,11 +8,11 @@ tags:
 - about
 - theme
 layout: post
-image: ../assets/img/rebrand-site.png
-excerpt: Project Director. Designed layout to fit the specific needs of the organization, led project, wrote content, sourced images. 
+image: "../assets/img/rebrand-site.png"
+excerpt: Project Director. Designed layout to fit the specific needs of the organization,
+  led project, wrote content, sourced images.
 project: true
 comments: true
-published: true
 ---
 
 #### Austin Bat Cave (ABC) is an organization tackling serious issues--child literacy, self-expression, and closing the educational gap--in a playful and creative manner. A few creatives developed the organizational voice, wrote, designed, and sourced all of the material for the site, still used today.  

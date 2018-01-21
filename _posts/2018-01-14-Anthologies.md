@@ -8,11 +8,10 @@ tags:
 - about
 - theme
 layout: post
-image: ../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg
+image: "../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg"
 excerpt: Project Manager, Creative, Editor, and Content Contributor.
 project: true
 comments: true
-published: true
 ---
 
 #### For the Austin Bat Cave anthologies, stylish and playful was a necessity. The important content--short stories about the zombie apocalypse, poems about ice cream, and essays about how difficult it is to be a teenager--was written by dozens of kids, but the rest of each project was finished by only a few plucky creatives. Each child contributor received a free copy for themselves, published authors.
