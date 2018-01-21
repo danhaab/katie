@@ -12,7 +12,6 @@ image: https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-
 excerpt: An interactive installation to benefit Waller Creek
 project: true
 comments: true
-
 ---
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    

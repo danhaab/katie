@@ -1,6 +1,7 @@
 ---
 title: Testing Readability with a Bunch of Text
 date: 2012-05-22 00:00:00 Z
+published: false
 tags:
 - sample post
 - readability
@@ -8,7 +9,6 @@ tags:
 layout: post
 excerpt: A ton of text to test readability.
 comments: true
-published: false
 ---
 
 Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.

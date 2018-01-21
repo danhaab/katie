@@ -1,6 +1,7 @@
 ---
 title: Markdown Syntax
 date: 2016-03-15 00:00:00 Z
+published: false
 tags:
 - markdown
 - syntax
@@ -11,7 +12,6 @@ layout: post
 excerpt: 'Just about everything you''ll need to style in the theme: headings, paragraphs,
   blockquotes, tables, code blocks, and more.'
 comments: true
-published: false
 ---
 
 ## HTML Elements
