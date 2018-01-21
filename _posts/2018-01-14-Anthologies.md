@@ -46,3 +46,9 @@ For our **Make Your Mark** book launch, twenty artists personalized anthologies 
 	../assets/img/anthology-768x1024.jpg
 {% endcapture %}
 {% include gallery images=images caption="Design: Lewis Carnegie" cols=1%}
+
+{% capture images %}
+	../assets/img/anthology1.jpg
+{% endcapture %}
+{% include gallery images=images caption="Design: Lewis Carnegie" cols=1%}
+

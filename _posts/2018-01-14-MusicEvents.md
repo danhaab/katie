@@ -1,6 +1,6 @@
 ---
-title: Moon Jekyll Theme
-date: 2016-04-06 00:00:00 Z
+title: Music Events
+date: 2018-01-14 00:00:00 Z
 tags:
 - jekyll
 - moon
@@ -9,8 +9,8 @@ tags:
 - theme
 layout: post
 image: https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-excerpt: Minimal, one column Jekyll theme for your blog.
-project: true
+excerpt: Excerpt
+event: true
 comments: true
 published: false
 ---
