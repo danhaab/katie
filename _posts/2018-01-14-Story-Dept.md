@@ -11,6 +11,7 @@ layout: post
 image: "../assets/img/ABC_Story_Dept_2016-03-08_22-46-23__DSC1286-2560x1709.jpg"
 excerpt: Producer
 event: true
+published: true
 comments: true
 ---
 

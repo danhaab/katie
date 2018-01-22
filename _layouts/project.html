@@ -28,8 +28,11 @@ layout: compress
                     <ul>
                         <li class="wow fadeIn" data-wow-duration="2.0s">
                             <span>
-                                <img src="{{ post.image }}" class="animate">
-                                <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                <div class ="post-img">                                   
+                                    <img src="{{ post.image }}" class="animate">
+                                    <h2 class="titletext">test</h2>
+                                </div>
+                                
                                 <p>{{ post.excerpt }}</p>
                                 <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                                 <hr class="hr-line">
