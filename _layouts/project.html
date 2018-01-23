@@ -27,16 +27,23 @@ layout: compress
                         {% if post.project and post.published %}
                     <ul>
                         <li class="wow fadeIn" data-wow-duration="2.0s">
-                            <span>
-                                <div class ="post-img">                                   
+                                <div>
                                     <img src="{{ post.image }}" class="animate">
-                                    <h2 class="titletext">test</h2>
+                                    <!--<p class="titletext">{{ post.excerpt }}</p>-->
+                                    <div class="post-title">Centered</div>
+                                    <!--<div>                                        
+                                        <p class="titletext">example</p>
+                                    </div>-->
                                 </div>
+                                <!--<div class ="post-img">                                   
+                                    <img src="{{ post.image }}" class="animate">
+                                    <p class="titletext">test</p>
+                                </div>-->
                                 
-                                <p>{{ post.excerpt }}</p>
+                                
                                 <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                                 <hr class="hr-line">
-                            </span>
+                            
                             
                         </li>
                     </ul>
