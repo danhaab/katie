@@ -91,18 +91,24 @@ body {
 }
 
 .titletext {
-	position: absolute; 
-   top: 200px; 
-   left: 0; 
-   width: 100%; 
+	color: #000;
+	left: 0;
+    position: absolute;;
+    text-align:center;
+    top: 30px;
+    width: 100%
 }
-
+.post-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+}
 .post-img {
-	position: relative;
-	width: 100%;
-	height: 100%;
+	background-image: url("../assets/img/200px-Katherine_anne_porter_house_2009.jpg");
 	
-	&:after {
+	/*&:after {
 		content: '';
 		position: absolute;
 		top: 0;
@@ -111,7 +117,7 @@ body {
 		bottom: 0;
 		background-image: linear-gradient(to top ,#ffffff,#585858);
 		opacity: .5; 
-	}
+	}*/
 }
 .row {
 	margin-top: 15px;
