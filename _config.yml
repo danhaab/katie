@@ -20,12 +20,8 @@ logo: assets/img/logo.jpg
 background: assets/img/background.jpg
 tiled_bg: false
 locale: en_UK
-<<<<<<< HEAD
 url: http://katieangermeierhaab.com
 #url: http://127.0.0.1:4000
-=======
-url: http://127.0.0.1:4000
->>>>>>> e657d88f364593f27ef93d2049f076a3fa07f761
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
