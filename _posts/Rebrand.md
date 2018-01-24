@@ -1,21 +1,5 @@
 ---
-title: Rebranding
-date: 2018-01-23 00:00:00 Z
-tags:
-- jekyll
-- moon
-- blog
-- about
-- theme
-layout: post
-image: "../assets/img/abc-web2-5-1928.jpg"
-excerpt: Project Director, Creative, Editor, and Content Contributor.
-project: true
-comments: true
-<<<<<<< HEAD
-show: true
-=======
->>>>>>> 95ab66644e90f6d263d9d1f725e3c16c9d2015fd
+title: 2018 01 23 Rebrand
 ---
 
 #### Worked with world-class design team to imagine, update, and define brand standards across every platform from web presence to merchandise to press packages for a popular literary charity in Austin, Texas. 
