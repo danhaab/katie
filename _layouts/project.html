@@ -18,31 +18,22 @@ layout: compress
             <div class="content">
                 <div class="post-title">
                     <h1>{{ page.title }}</h1>
-                    <a class="btn zoombtn" href="{{site.url}}">
-                        <i class="fa fa-home"></i>
-                    </a>
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %} 
                         {% if post.project and post.published %}
                     <ul>
-                        <li class="wow fadeIn" data-wow-duration="2.0s">
-                                <div>
-                                    <img src="{{ post.image }}" class="animate">
-                                    <!--<p class="titletext">{{ post.excerpt }}</p>-->
-                                    <div class="post-title">Centered</div>
-                                    <!--<div>                                        
-                                        <p class="titletext">example</p>
-                                    </div>-->
+                        <li class=" wow fadeIn" data-wow-duration="2.0s"> 
+                            <div class="item">
+                                <img src="{{ post.image }}" class="animate">
+                                <div class="item-title">{{ post.title }}</div>
+                                <div  class="item-excerpt">
+                                    <div>{{ post.excerpt }}</div>
+                                    <hr class="hr-line-white">
+                                    <div><a href="{{ site.url }}{{ post.url }}" class="btn zoombtn item-button">Read More</a></div>
                                 </div>
-                                <!--<div class ="post-img">                                   
-                                    <img src="{{ post.image }}" class="animate">
-                                    <p class="titletext">test</p>
-                                </div>-->
                                 
-                                
-                                <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
-                                <hr class="hr-line">
+                            </div>
                             
                             
                         </li>

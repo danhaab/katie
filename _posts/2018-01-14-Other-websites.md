@@ -8,7 +8,7 @@ tags:
 - about
 - theme
 layout: post
-image: "../assets/img/websitesphilippandkaren.png"
+image: "../assets/img/kap-hero.jpg"
 excerpt: Project Director and writer. Wrote content and sourced images.
 project: true
 comments: true

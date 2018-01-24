@@ -90,35 +90,69 @@ body {
 	}
 }
 
-.titletext {
-	color: #000;
-	left: 0;
-    position: absolute;;
-    text-align:center;
-    top: 30px;
-    width: 100%
-}
-.post-title {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-	transform: translate(-50%, -50%);
-	color: white;
-}
-.post-img {
-	background-image: url("../assets/img/200px-Katherine_anne_porter_house_2009.jpg");
-	
-	/*&:after {
+.item 
+{
+	position:relative;
+	text-align: center;
+	border-radius: 30px;
+	&:before {
 		content: '';
 		position: absolute;
 		top: 0;
-		left: 0;
 		right: 0;
 		bottom: 0;
-		background-image: linear-gradient(to top ,#ffffff,#585858);
-		opacity: .5; 
-	}*/
+		left: 0;
+		background-image: linear-gradient(to bottom,rgba(0,0,0,1) ,rgba(0,0,0,0.0) );
+		opacity: .6; 
+	  }
 }
+.item-title {
+	
+	top: 30px;
+	text-transform: uppercase;
+	text-align: center;
+    position: absolute;
+	width: 100%;
+	//transform: translate(-50%, -50%);
+	color: white;
+	font-weight: bolder;
+	@include font-rem(40);
+	@media #{$medium} {
+		@include font-rem(20);
+	}
+	@media #{$small} {
+		@include font-rem(20);
+	}
+}
+.item-excerpt {
+	
+	top: 100px;
+	
+	text-align: center;
+    position: absolute;
+	width: 100%;
+	color: white;
+	display: block;
+	font-weight: lighter;
+	@include font-rem(20);
+	
+	@media #{$medium} {
+		@include font-rem(0);
+	}
+	@media #{$small} {
+		@include font-rem(0);
+	}
+}
+.item-button {
+	
+
+	margin-top: 20px;
+	text-align: center;
+	display: block;
+	
+
+}
+
 .row {
 	margin-top: 15px;
 	text-align: center;

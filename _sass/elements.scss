@@ -98,9 +98,27 @@ hr {
 		opacity: .15;
 		margin: 1em 0;
 		background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-		background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-		background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-		background-image: -o-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+    background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+    background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+    background-image: -o-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+  }
+  &.hr-line-white {
+		border: 0;
+		height: 2px;
+		opacity: 1.0;
+		margin: 1em 0;
+		background-image: -webkit-linear-gradient(left, $white, $color_gallery, $white);
+		background-image: -moz-linear-gradient(left, $white, $color_gallery, $white);
+		background-image: -ms-linear-gradient(left, $white, $color_gallery, $white);
+    background-image: -o-linear-gradient(left, $white, $color_gallery, $white);
+    @media #{$medium} {
+      height:0px;
+      margin: 0px;
+    }
+    @media #{$small} {
+      height:0px;
+      margin: 0px;
+    }
 	}
 }
 
