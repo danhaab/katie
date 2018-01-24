@@ -13,8 +13,8 @@ Working closely with University staff and I wrote, sourced images, and managed n
  
 {% capture images %}
 	../assets/img/frontporch.png
-  ../assets/img/websitesphilippandkaren.png
-  ../assets/img/websitesauthors.png
-  ../assets/img/websitestim.png
+  ../assets/img/websitesphilippandkaren.jpg
+  ../assets/img/websitesauthors.jpg
+  ../assets/img/websitestim.jpg
 {% endcapture %}
 {% include gallery images=images caption="Spear-headed redesign and update of previous MFA Creative Writing site at Texas State University" cols=1%}

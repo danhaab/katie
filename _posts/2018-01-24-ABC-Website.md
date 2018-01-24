@@ -13,10 +13,10 @@ show: true
 **Austin Bat Cave** (ABC) is an organization tackling serious issues--child literacy, self-expression, and closing the educational gap--in a playful and creative manner. A few creatives developed the organizational voice, wrote, designed, and sourced all of the material for the site, still used today.  
  
 {% capture images %}
-	../assets/img/missionpage.png
-  ../assets/img/logospage.png
-  ../assets/img/sarahandkatie.png
-  ../assets/img/rebrand-site.png
+	../assets/img/missionpage.jpg
+  ../assets/img/logospage.jpg
+  ../assets/img/sarahandkatie.jpg
+  ../assets/img/rebrand-site.jpg
 {% endcapture %}
 {% include gallery images=images caption="Applied brand standards throughout. Design: Lewis Carnegie" cols=1%}
 
