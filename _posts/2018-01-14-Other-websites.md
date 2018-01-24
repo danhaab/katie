@@ -12,7 +12,6 @@ image: "../assets/img/kap-hero.jpg"
 excerpt: Project Director and writer. Wrote content and sourced images.
 project: true
 comments: true
-published: true
 ---
 
 #### Working closely with University staff and I wrote, sourced images, and managed new and updated website projects under their guidelines. Also maintained content as it changed--videos, calendars, blogs, bios, etc.  

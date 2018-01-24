@@ -1,7 +1,6 @@
 ---
 title: Music Events
 date: 2018-01-14 00:00:00 Z
-published: false
 tags:
 - jekyll
 - moon
@@ -13,7 +12,6 @@ image: https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-
 excerpt: Excerpt
 event: true
 comments: true
-published: true
 ---
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
