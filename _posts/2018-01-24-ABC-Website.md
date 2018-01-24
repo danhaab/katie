@@ -2,7 +2,7 @@
 title: Austin Bat Cave Website
 date: 2018-01-14 00:00:00 Z
 layout: post
-image: "../assets/img/rebrand-site.png"
+image: "../assets/img/rebrand-site.jpg"
 excerpt: Project Director. Designed layout to fit the specific needs of the organization,
   led project, wrote content, sourced images.
 project: true
