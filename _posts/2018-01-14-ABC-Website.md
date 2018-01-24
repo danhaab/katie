@@ -1,5 +1,22 @@
 ---
-title: 2018 01 14 Abc Website
+title: Austin Bat Cave Website
+date: 2018-01-14 00:00:00 Z
+tags:
+- jekyll
+- moon
+- blog
+- about
+- theme
+layout: post
+image: "../assets/img/rebrand-site.png"
+excerpt: Project Director. Designed layout to fit the specific needs of the organization,
+  led project, wrote content, sourced images.
+project: true
+comments: true
+<<<<<<< HEAD
+show: true
+=======
+>>>>>>> 95ab66644e90f6d263d9d1f725e3c16c9d2015fd
 ---
 
 #### Austin Bat Cave (ABC) is an organization tackling serious issues--child literacy, self-expression, and closing the educational gap--in a playful and creative manner. A few creatives developed the organizational voice, wrote, designed, and sourced all of the material for the site, still used today.  

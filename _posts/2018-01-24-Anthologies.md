@@ -1,5 +1,21 @@
 ---
-title: 2018 01 24 Anthologies
+title: Books
+date: 2018-01-24 00:00:00 Z
+tags:
+- jekyll
+- moon
+- blog
+- about
+- theme
+layout: post
+image: "../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg"
+excerpt: Project Manager, Creative, Editor, and Content Contributor.
+project: true
+comments: true
+<<<<<<< HEAD
+show: true
+=======
+>>>>>>> 95ab66644e90f6d263d9d1f725e3c16c9d2015fd
 ---
 
 #### For the Austin Bat Cave anthologies, stylish and playful was a necessity. The important content--short stories about the zombie apocalypse, poems about ice cream, and essays about how difficult it is to be a teenager--was written by dozens of kids, but the rest of each project was finished by only a few plucky creatives. Each child contributor received a free copy for themselves, published authors.
