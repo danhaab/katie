@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2018-01-24T11:05:52+00:00</updated><id>http://127.0.0.1:4000/</id><title type="html">Katie Angermeier Haab</title><subtitle>Katie is the best!</subtitle><entry><title type="html">Workshops</title><link href="http://127.0.0.1:4000/WorkShops/" rel="alternate" type="text/html" title="Workshops" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/WorkShops</id><content type="html" xml:base="http://127.0.0.1:4000/WorkShops/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2018-01-24T11:17:40+00:00</updated><id>http://127.0.0.1:4000/</id><title type="html">Katie Angermeier Haab</title><subtitle>Katie is the best!</subtitle><entry><title type="html">Books</title><link href="http://127.0.0.1:4000/Anthologies/" rel="alternate" type="text/html" title="Books" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Anthologies</id><content type="html" xml:base="http://127.0.0.1:4000/Anthologies/">&lt;h4 id=&quot;for-the-austin-bat-cave-anthologies-stylish-and-playful-was-a-necessity-the-important-content--short-stories-about-the-zombie-apocalypse-poems-about-ice-cream-and-essays-about-how-difficult-it-is-to-be-a-teenager--was-written-by-dozens-of-kids-but-the-rest-of-each-project-was-finished-by-only-a-few-plucky-creatives-each-child-contributor-received-a-free-copy-for-themselves-published-authors&quot;&gt;For the Austin Bat Cave anthologies, stylish and playful was a necessity. The important content–short stories about the zombie apocalypse, poems about ice cream, and essays about how difficult it is to be a teenager–was written by dozens of kids, but the rest of each project was finished by only a few plucky creatives. Each child contributor received a free copy for themselves, published authors.&lt;/h4&gt;
+
+&lt;h2 id=&quot;are-you-there-godzilla-its-me-mothra&quot;&gt;Are you there, Godzilla? It’s Me, Mothra.&lt;/h2&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/abc-web2-2-1928.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-2-1928.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/abc-web2-7-1928.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-7-1928.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;make-your-mark&quot;&gt;Make Your Mark&lt;/h2&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg&quot;&gt;&lt;img src=&quot;../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/ABC-Anthology-2016-1928.jpg&quot;&gt;&lt;img src=&quot;../assets/img/ABC-Anthology-2016-1928.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For our &lt;strong&gt;Make Your Mark&lt;/strong&gt; book launch, twenty artists personalized anthologies for a silent auction, all proceeds benefiting the charity.&lt;/p&gt;
+
+&lt;h2 id=&quot;young-love-and-dream-it&quot;&gt;Young Love and Dream It.&lt;/h2&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/abc-web2-8-1928-3.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-8-1928-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;lift-off&quot;&gt;Lift Off&lt;/h2&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/anthology-768x1024.jpg&quot;&gt;&lt;img src=&quot;../assets/img/anthology-768x1024.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/anthology1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/anthology1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Project Manager, Creative, Editor, and Content Contributor.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg" /></entry><entry><title type="html">Rebranding</title><link href="http://127.0.0.1:4000/Rebrand/" rel="alternate" type="text/html" title="Rebranding" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Rebrand</id><content type="html" xml:base="http://127.0.0.1:4000/Rebrand/">&lt;h4 id=&quot;worked-with-world-class-design-team-to-imagine-update-and-define-brand-standards-across-every-platform-from-web-presence-to-merchandise-to-press-packages-for-a-popular-literary-charity-in-austin-texas&quot;&gt;Worked with world-class design team to imagine, update, and define brand standards across every platform from web presence to merchandise to press packages for a popular literary charity in Austin, Texas.&lt;/h4&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/abc-web2-5-1928.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-5-1928.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/abc-web2-6-1928-1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-6-1928-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/rebrand-site.png&quot;&gt;&lt;img src=&quot;../assets/img/rebrand-site.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Project Director, Creative, Editor, and Content Contributor.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/abc-web2-5-1928.jpg" /></entry><entry><title type="html">O’Hara’s Landing Website</title><link href="http://127.0.0.1:4000/Oharas/" rel="alternate" type="text/html" title="O'Hara's Landing Website" /><published>2018-01-22T00:00:00+00:00</published><updated>2018-01-22T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Oharas</id><content type="html" xml:base="http://127.0.0.1:4000/Oharas/">&lt;h4 id=&quot;oharas-landing-is-a-place-firmly-rooted-in-simplicity-of-the-past-and-had-a-website-to-match-our-team-was-tasked-with-building-a-site-that-would-bring-their-online-presence-into-the-modern-world-while-retaining-the-friendliness-and-charm-of-the-marina-itself&quot;&gt;O’Hara’s Landing is a place firmly rooted in simplicity of the past, and had a website to match. Our team was tasked with building a site that would bring their online presence into the modern world, while retaining the friendliness and charm of the Marina itself.&lt;/h4&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/marinaday.jpg&quot;&gt;&lt;img src=&quot;../assets/img/marinaday.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/marinalogos.jpg&quot;&gt;&lt;img src=&quot;../assets/img/marinalogos.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/marinatimeline.jpg&quot;&gt;&lt;img src=&quot;../assets/img/marinatimeline.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Project Manager. Conducted Stakeholder interviews. Wrote content and sourced images.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/oharas-hero.jpg" /></entry><entry><title type="html">Workshops</title><link href="http://127.0.0.1:4000/WorkShops/" rel="alternate" type="text/html" title="Workshops" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/WorkShops</id><content type="html" xml:base="http://127.0.0.1:4000/WorkShops/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Moon&lt;/b&gt; is a minimal, one column jekyll theme.&lt;/center&gt;
 
@@ -147,7 +218,20 @@ feaure: http://example.com/some-image.png
 
 &lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
 
-&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png" /></entry><entry><title type="html">Tree Yo Self</title><link href="http://127.0.0.1:4000/TreeYoSelf/" rel="alternate" type="text/html" title="Tree Yo Self" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/TreeYoSelf</id><content type="html" xml:base="http://127.0.0.1:4000/TreeYoSelf/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png" /></entry><entry><title type="html">Visiting Writers Series</title><link href="http://127.0.0.1:4000/Visiting-Writers/" rel="alternate" type="text/html" title="Visiting Writers Series" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Visiting-Writers</id><content type="html" xml:base="http://127.0.0.1:4000/Visiting-Writers/">&lt;h4 id=&quot;living-and-working-from-the-kap-literary-center-katherine-anne-porters-childhood-home-as-the-writer-in-residence-of-texas-state-university-i-produced-the-visiting-writers-series-for-three-years-hosting-author-readings-at-two-locations-craft-talks-workshops-and-book-signings-from-financial-to-contracts-to-publicity-to-event-coordination-i-directed-over-30-writer-visits-and-over-60-events-total-organizing-travel--and-hospitality-details-and-more-for-writers-such-as-george-saunders-annie-proulx-sandra-cisneros-robert-stone-tim-obrien-karen-russell-and-more&quot;&gt;Living and working from the KAP Literary Center, Katherine Anne Porter’s childhood home, as the Writer-in-Residence of Texas State University, I produced the Visiting Writers Series for three years, hosting author readings at two locations, craft talks, workshops, and book signings. From financial to contracts to publicity to event coordination, I directed over 30 writer visits and over 60 events total, organizing travel  and hospitality details, and more for writers such as George Saunders, Annie Proulx, Sandra Cisneros, Robert Stone, Tim O’Brien, Karen Russell, and more.&lt;/h4&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/Cisneros_Reading32.jpg&quot;&gt;&lt;img src=&quot;../assets/img/Cisneros_Reading32.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/karenrussell.png&quot;&gt;&lt;img src=&quot;../assets/img/karenrussell.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/michaeldickman.png&quot;&gt;&lt;img src=&quot;../assets/img/michaeldickman.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/timobrien.png&quot;&gt;&lt;img src=&quot;../assets/img/timobrien.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Writer-in-Residence and Visiting Writers Series Coordinator</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/1200px-Katherine_anne_porter_house_2009.jpg" /></entry><entry><title type="html">Tree Yo Self</title><link href="http://127.0.0.1:4000/TreeYoSelf/" rel="alternate" type="text/html" title="Tree Yo Self" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/TreeYoSelf</id><content type="html" xml:base="http://127.0.0.1:4000/TreeYoSelf/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Moon&lt;/b&gt; is a minimal, one column jekyll theme.&lt;/center&gt;
 
@@ -296,7 +380,18 @@ feaure: http://example.com/some-image.png
 
 &lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
 
-&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">An interactive installation to benefit Waller Creek</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png" /></entry><entry><title type="html">University Websites</title><link href="http://127.0.0.1:4000/Other-websites/" rel="alternate" type="text/html" title="University Websites" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Other-websites</id><content type="html" xml:base="http://127.0.0.1:4000/Other-websites/">&lt;h4 id=&quot;working-closely-with-university-staff-and-i-wrote-sourced-images-and-managed-new-and-updated-website-projects-under-their-guidelines-also-maintained-content-as-it-changed--videos-calendars-blogs-bios-etc&quot;&gt;Working closely with University staff and I wrote, sourced images, and managed new and updated website projects under their guidelines. Also maintained content as it changed–videos, calendars, blogs, bios, etc.&lt;/h4&gt;
+&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">An interactive installation to benefit Waller Creek</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png" /></entry><entry><title type="html">Story Department</title><link href="http://127.0.0.1:4000/Story-Dept/" rel="alternate" type="text/html" title="Story Department" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Story-Dept</id><content type="html" xml:base="http://127.0.0.1:4000/Story-Dept/">&lt;h4 id=&quot;produced-and-hosted-intimate-monthly-storytelling-events-over-fifty-total-over-the-course-of-the-years-did-publicity-organized-line-up-often-consisting-of-well-known-storytellers-volunteer-training-and-coordination-and-financials&quot;&gt;Produced and hosted intimate, monthly storytelling events, over fifty total over the course of the years. Did publicity, organized line-up often consisting of well-known storytellers, volunteer training and coordination, and financials.&lt;/h4&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/storydept1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/storydept1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/storydept2.jpg&quot;&gt;&lt;img src=&quot;../assets/img/storydept2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/storydept3.jpg&quot;&gt;&lt;img src=&quot;../assets/img/storydept3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Producer</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/ABC_Story_Dept_2016-03-08_22-46-23__DSC1286-2560x1709.jpg" /></entry><entry><title type="html">University Websites</title><link href="http://127.0.0.1:4000/Other-websites/" rel="alternate" type="text/html" title="University Websites" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Other-websites</id><content type="html" xml:base="http://127.0.0.1:4000/Other-websites/">&lt;h4 id=&quot;working-closely-with-university-staff-and-i-wrote-sourced-images-and-managed-new-and-updated-website-projects-under-their-guidelines-also-maintained-content-as-it-changed--videos-calendars-blogs-bios-etc&quot;&gt;Working closely with University staff and I wrote, sourced images, and managed new and updated website projects under their guidelines. Also maintained content as it changed–videos, calendars, blogs, bios, etc.&lt;/h4&gt;
 
 &lt;figure&gt;
     
@@ -458,28 +553,13 @@ feaure: http://example.com/some-image.png
 
 &lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
 
-&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png" /></entry><entry><title type="html">Booklaunches</title><link href="http://127.0.0.1:4000/BookLaunches/" rel="alternate" type="text/html" title="Booklaunches" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/BookLaunches</id><content type="html" xml:base="http://127.0.0.1:4000/BookLaunches/">&lt;p&gt;layout: post
-title:  “Book Launches”
-date:   2018-01-14
-image: assets/IMG_1056-ABC-Anthology-2016-1928.jpge790.png
-excerpt: “Excerpt”
-event: true
-tag:
-- jekyll s
-- moon
-- blog
-- about
-- theme
-published: false&lt;/p&gt;</content><summary type="html">layout: post
-title:  “Book Launches”
-date:   2018-01-14
-image: assets/IMG_1056-ABC-Anthology-2016-1928.jpge790.png
-excerpt: “Excerpt”
-event: true
-tag:
-- jekyll s
-- moon
-- blog
-- about
-- theme
-published: false</summary></entry></feed>
+&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png" /></entry><entry><title type="html">Eat Your Words</title><link href="http://127.0.0.1:4000/EatYourWords/" rel="alternate" type="text/html" title="Eat Your Words" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/EatYourWords</id><content type="html" xml:base="http://127.0.0.1:4000/EatYourWords/">&lt;h4 id=&quot;imagined-and-carried-out-all-aspects-of-upscale-yet-comfortable-storytelling-fundraising-event-with-a-dynamite-team-featuring-stories-and-five-star-dishes-from-respected-austin-chefs-and-foodies&quot;&gt;Imagined and carried out all aspects of upscale yet comfortable storytelling fundraising event with a dynamite team, featuring stories and five-star dishes from respected Austin chefs and foodies.&lt;/h4&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/Eat-your-words_ABC.gif&quot;&gt;&lt;img src=&quot;../assets/img/Eat-your-words_ABC.gif&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/eatyourwords.jpg&quot;&gt;&lt;img src=&quot;../assets/img/eatyourwords.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Event Coordinator, Producer.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/Eat-your-words_ABC.gif" /></entry></feed>
