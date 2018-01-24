@@ -1,12 +1,6 @@
 ---
 title: Visiting Writers Series
-date: 2018-01-14 00:00:00 Z
-tags:
-- jekyll
-- moon
-- blog
-- about
-- theme
+date: 2018-01-20 00:00:00 Z
 layout: post
 image: "../assets/img/1200px-Katherine_anne_porter_house_2009.jpg"
 excerpt: Writer-in-Residence and Visiting Writers Series Coordinator

@@ -1,12 +1,6 @@
 ---
 title: Story Department
-date: 2018-01-14 00:00:00 Z
-tags:
-- jekyll
-- moon
-- blog
-- about
-- theme
+date: 2018-01-21 00:00:00 Z
 layout: post
 image: "../assets/img/ABC_Story_Dept_2016-03-08_22-46-23__DSC1286-2560x1709.jpg"
 excerpt: Producer

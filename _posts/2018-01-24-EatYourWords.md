@@ -1,12 +1,7 @@
 ---
 title: Eat Your Words
-date: 2018-01-14 00:00:00 Z
-tags:
-- jekyll
-- moon
-- blog
-- about
-- theme
+date: 2018-01-22 00:00:00 Z
+
 layout: post
 image: "../assets/img/Eat-your-words_ABC.gif"
 excerpt: Event Coordinator, Producer.

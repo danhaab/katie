@@ -1,12 +1,6 @@
 ---
 title: Books
 date: 2018-01-24 00:00:00 Z
-tags:
-- jekyll
-- moon
-- blog
-- about
-- theme
 layout: post
 image: "../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg"
 excerpt: Project Manager, Creative, Editor, and Content Contributor.
@@ -15,7 +9,7 @@ comments: true
 show: true
 ---
 
-#### For the Austin Bat Cave anthologies, stylish and playful was a necessity. The important content--short stories about the zombie apocalypse, poems about ice cream, and essays about how difficult it is to be a teenager--was written by dozens of kids, but the rest of each project was finished by only a few plucky creatives. Each child contributor received a free copy for themselves, published authors.
+For the **Austin Bat Cave** anthologies, stylish and playful was a necessity. The important content--short stories about the zombie apocalypse, poems about ice cream, and essays about how difficult it is to be a teenager--was written by dozens of kids, but the rest of each project was finished by only a few plucky creatives. Each child contributor received a free copy for themselves, published authors.
 
 
 ## Are you there, Godzilla? It's Me, Mothra. 
@@ -24,6 +18,7 @@ show: true
   ../assets/img/abc-web2-7-1928.jpg
 {% endcapture %}
 {% include gallery images=images caption="Design: Lewis Carnegie" cols=1%}
+
 
 ## Make Your Mark
 {% capture images %}

@@ -1,12 +1,6 @@
 ---
 title: University Websites
 date: 2018-01-14 00:00:00 Z
-tags:
-- jekyll
-- moon
-- blog
-- about
-- theme
 layout: post
 image: "../assets/img/kap-hero.jpg"
 excerpt: Project Director and writer. Wrote content and sourced images.
