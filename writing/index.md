@@ -1,8 +1,8 @@
 ---
-title: Business Writing
+title: Selected Writing
 date: 2012-05-22 00:00:00 Z
 layout: post
-
+years: 2010-2016
 writing: true
 comments: true
 show: true
@@ -34,3 +34,9 @@ I've also written and published both fiction and nonfiction. Shaping language an
    ../assets/img/writingpressrelease.png
 {% endcapture %}
 {% include gallery images=images caption="Example of one of the hundreds of press releases written and distributed." cols=1%}
+
+More samples:
+
+<a href="https://blog.politicsmeanspolitics.com/@katiehaab">Medium</a>
+<a href="http://burrowpress.com/tag/katie-angermeier/">Rise Awake</a>
+<a href="https://austinbatcave.org/2015/02/10/lewis-carnegie-a-love-story/">Blog Post Sample</a>

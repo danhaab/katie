@@ -3,8 +3,7 @@ title: Anthology Launches
 date: 2018-01-23 00:00:00 Z
 layout: post
 image: "../assets/img/anthology-hero.jpg"
-excerpt: Project Director and writer. Wrote content and sourced images.
-project: true
+excerpt: Producer and Coordinator.
 comments: true
 event: true
 show: true
