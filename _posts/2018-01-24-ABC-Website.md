@@ -10,7 +10,7 @@ comments: true
 show: true
 ---
 
-#### Austin Bat Cave (ABC) is an organization tackling serious issues--child literacy, self-expression, and closing the educational gap--in a playful and creative manner. A few creatives developed the organizational voice, wrote, designed, and sourced all of the material for the site, still used today.  
+**Austin Bat Cave** (ABC) is an organization tackling serious issues--child literacy, self-expression, and closing the educational gap--in a playful and creative manner. A few creatives developed the organizational voice, wrote, designed, and sourced all of the material for the site, still used today.  
  
 {% capture images %}
 	../assets/img/missionpage.png

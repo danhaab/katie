@@ -2,12 +2,11 @@
 title: Business Writing
 date: 2012-05-22 00:00:00 Z
 layout: post
-excerpt: excerpt
+
 writing: true
 comments: true
 show: true
 ---
-
 
 In my previous position running a successful literary arts charity, I wrote, edited, and established standards for all of the associated material, including creating the overall voice for the organization. I wrote website content, grants, fundraising campaigns, blog posts, newsletters, press releases, events packages, author and artist bios, employee and board handbooks, social media strategy and day-to-day posts, long-term campaigns, front and end matter to all print books, copyedited hundreds of pages of book material, wrote video and advertising content, pamphlets, promotional material, and all front-facing media, while delegating tasks to staff and trustees as necessary. I would begin each project with strategy: outline content, establish deadline, and then pinpoint the audience and potential reach in order to most efficiently and effectively distribute the information. 
 
