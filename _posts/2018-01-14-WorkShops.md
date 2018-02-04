@@ -3,9 +3,11 @@ title: Workshops
 date: 2018-01-14 00:00:00 Z
 layout: post
 image: https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-excerpt: Excerpt
+jobtitle: Excerpt
+jobdescription: Did some stuff
 event: true
 comments: true
+excerpt: excerpt
 ---
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    

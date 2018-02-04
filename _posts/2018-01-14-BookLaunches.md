@@ -3,16 +3,32 @@ title: Anthology Launches
 date: 2018-01-23 00:00:00 Z
 layout: post
 image: "../assets/img/anthology-hero.jpg"
-excerpt: Producer and Coordinator.
+jobtitle: Producer and Coordinator
+jobdescription: Organized and Managed all aspects 
 comments: true
+excerpt: excerpt
 event: true
 show: true
 ---
 
-After the production and printing of each annual **Austin Bat Cave** anthology, they would be distributed to the children writers that contributed. We'd then host a launch party--six that I organized--where the community would celebrate the children's work by listening to them read, selling the books, and mingling over an auction or free activities, food, and music: Party time! 
+After the production and printing of **Austin Bat Cave's** annual anthologies, they would be distributed to the children writers that contributed. We'd threw these kiddos book launch parties--six that I organized--where the community celebrated the children's work. We'd listen to them read, distribute the books, and mingle over auctions, activities, food, drinks, and music. Party time! 
  
 {% capture images %}
 	../assets/img/anthologylaunch1.jpg
-  ../assets/img/anthologylaunch2.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=1%}
+
+ Educating people about **Austin Bat Cave** was a big part of each event, especially when highlighting our most proud projects--the anthologies of student writing.
+
+{% capture images %}
+  ../assets/img/anthologylaunch2.jpg
+{% endcapture %}
+{% include gallery images=images caption="Authors were the focus of each event, our heroes." cols=1%}
+
+{% capture images %}
+  ../assets/img/anthology1.jpg
+{% endcapture %}
+{% include gallery images=images caption="Satisfied authors with their anthologies." cols=1%}
+
+
+

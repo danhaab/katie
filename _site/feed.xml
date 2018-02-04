@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2018-01-29T10:50:35+00:00</updated><id>http://127.0.0.1:4000/</id><title type="html">Katie Angermeier Haab</title><subtitle>Katie is the best!</subtitle><entry><title type="html">Music</title><link href="http://127.0.0.1:4000/Music/" rel="alternate" type="text/html" title="Music" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Music</id><content type="html" xml:base="http://127.0.0.1:4000/Music/">&lt;p&gt;Over the past 20 years, from production and promotion to hospitality to publicity, I’ve worked concerts, both large-scale, multi-day festivals to intimate shows, fundraisers, or showcases.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2018-02-04T20:06:33+00:00</updated><id>http://127.0.0.1:4000/</id><title type="html">Katie Angermeier Haab</title><subtitle>Katie is the best!</subtitle><entry><title type="html">Music</title><link href="http://127.0.0.1:4000/Music/" rel="alternate" type="text/html" title="Music" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Music</id><content type="html" xml:base="http://127.0.0.1:4000/Music/">&lt;p&gt;Over the past 20 years, from production and promotion to hospitality to publicity, I’ve worked concerts. Large-scale shows, multi-day festivals, intimate fundraisers, or SXSW showcases, I’ve done a little bit of everything.&lt;/p&gt;
 
 &lt;figure&gt;
     
@@ -34,7 +34,7 @@
     &lt;a href=&quot;../assets/img/music3.jpg&quot;&gt;&lt;img src=&quot;../assets/img/music3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">Production and Promotion</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/music-hero.jpg" /></entry><entry><title type="html">Books</title><link href="http://127.0.0.1:4000/Anthologies/" rel="alternate" type="text/html" title="Books" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Anthologies</id><content type="html" xml:base="http://127.0.0.1:4000/Anthologies/">&lt;p&gt;For the &lt;strong&gt;Austin Bat Cave&lt;/strong&gt; anthologies, stylish and playful was a necessity. The important content–short stories about the zombie apocalypse, poems about ice cream, and essays about how difficult it is to be a teenager–was written by dozens of kids, but the rest of each project was finished by only a few plucky creatives. Each child contributor received a free copy for themselves, published authors.&lt;/p&gt;
+&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/music-hero.jpg" /></entry><entry><title type="html">Books</title><link href="http://127.0.0.1:4000/Anthologies/" rel="alternate" type="text/html" title="Books" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Anthologies</id><content type="html" xml:base="http://127.0.0.1:4000/Anthologies/">&lt;p&gt;For the &lt;strong&gt;Austin Bat Cave&lt;/strong&gt; anthologies, stylish yet playful was the aesthetic. The important content–short stories about the zombie apocalypse, poems about ice cream, and essays about how difficult it is to be a teenager–was written by children. The rest of each project was finished by only a few plucky creatives, overseen by me from imagination to conception. Each child writer received a free copy for their bookshelves. Anthologies would be sold and distributed to volunteers, fans, funders, and supporters of Austin Bat Cave.&lt;/p&gt;
 
 &lt;h2 id=&quot;are-you-there-godzilla-its-me-mothra&quot;&gt;Are you there, Godzilla? It’s Me, Mothra.&lt;/h2&gt;
 
@@ -44,8 +44,10 @@
     
     &lt;a href=&quot;../assets/img/abc-web2-7-1928.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-7-1928.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you there, Godzilla? It’s Me, Mothra&lt;/strong&gt;, an anthology for a popular writing organization, includes work by hundreds of underserved students. Like all of the anthologies, each student now owns a copy of the book. Poof! Published writers.&lt;/p&gt;
 
 &lt;h2 id=&quot;make-your-mark&quot;&gt;Make Your Mark&lt;/h2&gt;
 
@@ -55,7 +57,7 @@
     
     &lt;a href=&quot;../assets/img/ABC-Anthology-2016-1928.jpg&quot;&gt;&lt;img src=&quot;../assets/img/ABC-Anthology-2016-1928.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;For our &lt;strong&gt;Make Your Mark&lt;/strong&gt; book launch, twenty artists personalized anthologies for a silent auction, all proceeds benefiting the charity.&lt;/p&gt;
@@ -66,8 +68,10 @@
     
     &lt;a href=&quot;../assets/img/abc-web2-8-1928-3.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-8-1928-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Young Love&lt;/strong&gt; and &lt;strong&gt;Dream It&lt;/strong&gt; were two anthologies where students wrote about two subjects in which they were each experts: Love and Dreams.&lt;/p&gt;
 
 &lt;h2 id=&quot;lift-off&quot;&gt;Lift Off&lt;/h2&gt;
 
@@ -75,15 +79,12 @@
     
     &lt;a href=&quot;../assets/img/anthology-768x1024.jpg&quot;&gt;&lt;img src=&quot;../assets/img/anthology-768x1024.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;figure&gt;
-    
-    &lt;a href=&quot;../assets/img/anthology1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/anthology1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">Project Manager, Creative, Editor, and Content Contributor.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg" /></entry><entry><title type="html">Rebranding</title><link href="http://127.0.0.1:4000/Rebrand/" rel="alternate" type="text/html" title="Rebranding" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Rebrand</id><content type="html" xml:base="http://127.0.0.1:4000/Rebrand/">&lt;p&gt;Worked with world-class design team to imagine, update, and define brand standards across every platform from web presence to merchandise to press packages for a popular literary charity in Austin, Texas.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;Lift Off&lt;/strong&gt; I wrote and edited content.&lt;/p&gt;
+
+&lt;p&gt;All designs by &lt;a href=&quot;http://lewiscarnegie.com&quot;&gt;Lewis Carnegie&lt;/a&gt;&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg" /></entry><entry><title type="html">Rebranding</title><link href="http://127.0.0.1:4000/Rebrand/" rel="alternate" type="text/html" title="Rebranding" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Rebrand</id><content type="html" xml:base="http://127.0.0.1:4000/Rebrand/">&lt;p&gt;Worked with world-class design team to imagine, update, and define brand standards across every platform from web presence to merchandise to press packages for a popular literary charity in Austin, Texas.&lt;/p&gt;
 
 &lt;figure&gt;
     
@@ -94,7 +95,7 @@
     &lt;a href=&quot;../assets/img/rebrand-site.jpg&quot;&gt;&lt;img src=&quot;../assets/img/rebrand-site.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">Project Director, Creative, Editor, and Content Contributor.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/abc-web2-5-1928.jpg" /></entry><entry><title type="html">Carnival O’ Pizza</title><link href="http://127.0.0.1:4000/CarnivalOPizza.1/" rel="alternate" type="text/html" title="Carnival O' Pizza" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/CarnivalOPizza.1</id><content type="html" xml:base="http://127.0.0.1:4000/CarnivalOPizza.1/">&lt;p&gt;For five years, I was a point-person for a large-scale community carnival fundraiser, bringing together hundreds of community families to play dozens of carnival games and singular good times, all pizza-related and on-brand. I coordinated and recruited over 120 volunteers and worked with a stellar team of joyful professionals to raise a large portion of the annual budget for a local charity organization.&lt;/p&gt;
+&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/abc-web2-5-1928.jpg" /></entry><entry><title type="html">Carnival O’ Pizza</title><link href="http://127.0.0.1:4000/CarnivalOPizza.1/" rel="alternate" type="text/html" title="Carnival O' Pizza" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/CarnivalOPizza.1</id><content type="html" xml:base="http://127.0.0.1:4000/CarnivalOPizza.1/">&lt;p&gt;For five years, I was a point-person for a large-scale community carnival fundraiser, bringing together hundreds of community families to play dozens of carnival games and singular good times, all pizza-related and on-brand. I coordinated and recruited over 120 volunteers and worked with a stellar team of joyful professionals to raise a large portion of the annual budget for a local charity organization.&lt;/p&gt;
 
 &lt;figure&gt;
     
@@ -109,16 +110,30 @@
     &lt;a href=&quot;../assets/img/carnival4.jpg&quot;&gt;&lt;img src=&quot;../assets/img/carnival4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">Coordinator</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/carnival.jpg" /></entry><entry><title type="html">Anthology Launches</title><link href="http://127.0.0.1:4000/BookLaunches/" rel="alternate" type="text/html" title="Anthology Launches" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/BookLaunches</id><content type="html" xml:base="http://127.0.0.1:4000/BookLaunches/">&lt;p&gt;After the production and printing of each annual &lt;strong&gt;Austin Bat Cave&lt;/strong&gt; anthology, they would be distributed to the children writers that contributed. We’d then host a launch party–six that I organized–where the community would celebrate the children’s work by listening to them read, selling the books, and mingling over an auction or free activities, food, and music: Party time!&lt;/p&gt;
+&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/carnival.jpg" /></entry><entry><title type="html">Anthology Launches</title><link href="http://127.0.0.1:4000/BookLaunches/" rel="alternate" type="text/html" title="Anthology Launches" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/BookLaunches</id><content type="html" xml:base="http://127.0.0.1:4000/BookLaunches/">&lt;p&gt;After the production and printing of &lt;strong&gt;Austin Bat Cave’s&lt;/strong&gt; annual anthologies, they would be distributed to the children writers that contributed. We’d threw these kiddos book launch parties–six that I organized–where the community celebrated the children’s work. We’d listen to them read, distribute the books, and mingle over auctions, activities, food, drinks, and music. Party time!&lt;/p&gt;
 
 &lt;figure&gt;
     
     &lt;a href=&quot;../assets/img/anthologylaunch1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/anthologylaunch1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Educating people about &lt;strong&gt;Austin Bat Cave&lt;/strong&gt; was a big part of each event, especially when highlighting our most proud projects–the anthologies of student writing.&lt;/p&gt;
+
+&lt;figure&gt;
+    
     &lt;a href=&quot;../assets/img/anthologylaunch2.jpg&quot;&gt;&lt;img src=&quot;../assets/img/anthologylaunch2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">Producer and Coordinator.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/anthology-hero.jpg" /></entry><entry><title type="html">O’Hara’s Landing Website</title><link href="http://127.0.0.1:4000/Oharas/" rel="alternate" type="text/html" title="O'Hara's Landing Website" /><published>2018-01-22T00:00:00+00:00</published><updated>2018-01-22T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Oharas</id><content type="html" xml:base="http://127.0.0.1:4000/Oharas/">&lt;p&gt;&lt;strong&gt;O’Hara’s Landing&lt;/strong&gt; is a place firmly rooted in simplicity of the past, and had a website to match. Our team was tasked with building a site that would bring their online presence into the modern world, while retaining the friendliness and charm of the Marina itself.&lt;/p&gt;
+    &lt;figcaption&gt;Authors were the focus of each event, our heroes.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/anthology1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/anthology1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Satisfied authors with their anthologies.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/anthology-hero.jpg" /></entry><entry><title type="html">O’Hara’s Landing Website</title><link href="http://127.0.0.1:4000/Oharas/" rel="alternate" type="text/html" title="O'Hara's Landing Website" /><published>2018-01-22T00:00:00+00:00</published><updated>2018-01-22T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Oharas</id><content type="html" xml:base="http://127.0.0.1:4000/Oharas/">&lt;p&gt;&lt;strong&gt;O’Hara’s Landing&lt;/strong&gt; is a place firmly rooted in simplicity of the past, and had a website to match. Our team was tasked with building a site that would bring their online presence into the modern world, while retaining the friendliness and charm of the Marina itself.&lt;/p&gt;
 
 &lt;figure&gt;
     
@@ -131,7 +146,7 @@
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.oharaslanding.com&quot;&gt;View The Site&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Project Manager. Conducted Stakeholder interviews. Wrote content and sourced images.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/oharas-hero.jpg" /></entry><entry><title type="html">Eat Your Words</title><link href="http://127.0.0.1:4000/EatYourWords/" rel="alternate" type="text/html" title="Eat Your Words" /><published>2018-01-22T00:00:00+00:00</published><updated>2018-01-22T00:00:00+00:00</updated><id>http://127.0.0.1:4000/EatYourWords</id><content type="html" xml:base="http://127.0.0.1:4000/EatYourWords/">&lt;p&gt;Imagined and carried out all aspects of upscale yet comfortable storytelling fundraising event with a dynamite team, featuring stories and five-star dishes from respected Austin chefs and foodies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.oharaslanding.com&quot;&gt;View The Site&lt;/a&gt;&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/oharas-hero.jpg" /></entry><entry><title type="html">Eat Your Words</title><link href="http://127.0.0.1:4000/EatYourWords/" rel="alternate" type="text/html" title="Eat Your Words" /><published>2018-01-22T00:00:00+00:00</published><updated>2018-01-22T00:00:00+00:00</updated><id>http://127.0.0.1:4000/EatYourWords</id><content type="html" xml:base="http://127.0.0.1:4000/EatYourWords/">&lt;p&gt;Imagined and carried out all aspects of upscale yet comfortable storytelling fundraising event with a dynamite team, featuring stories and five-star dishes from respected Austin chefs and foodies.&lt;/p&gt;
 
 &lt;figure&gt;
     
@@ -140,7 +155,7 @@
     &lt;a href=&quot;../assets/img/eatyourwords.jpg&quot;&gt;&lt;img src=&quot;../assets/img/eatyourwords.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">Event Coordinator, Producer.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/Eat-your-words_ABC.gif" /></entry><entry><title type="html">Story Department</title><link href="http://127.0.0.1:4000/Story-Dept/" rel="alternate" type="text/html" title="Story Department" /><published>2018-01-21T00:00:00+00:00</published><updated>2018-01-21T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Story-Dept</id><content type="html" xml:base="http://127.0.0.1:4000/Story-Dept/">&lt;p&gt;Produced and hosted intimate, monthly storytelling events, over fifty total over the course of the years. Did publicity, organized line-up often consisting of well-known storytellers, volunteer training and coordination, and financials.&lt;/p&gt;
+&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/Eat-your-words_ABC.gif" /></entry><entry><title type="html">Story Department</title><link href="http://127.0.0.1:4000/Story-Dept/" rel="alternate" type="text/html" title="Story Department" /><published>2018-01-21T00:00:00+00:00</published><updated>2018-01-21T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Story-Dept</id><content type="html" xml:base="http://127.0.0.1:4000/Story-Dept/">&lt;p&gt;Produced and hosted intimate, monthly storytelling events, over fifty total over the course of the years. Did publicity, organized line-up often consisting of well-known storytellers, volunteer training and coordination, and financials.&lt;/p&gt;
 
 &lt;figure&gt;
     
@@ -151,7 +166,7 @@
     &lt;a href=&quot;../assets/img/storydept3.jpg&quot;&gt;&lt;img src=&quot;../assets/img/storydept3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">Producer</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/ABC_Story_Dept_2016-03-08_22-46-23__DSC1286-2560x1709.jpg" /></entry><entry><title type="html">Visiting Writers Series</title><link href="http://127.0.0.1:4000/Visiting-Writers/" rel="alternate" type="text/html" title="Visiting Writers Series" /><published>2018-01-20T00:00:00+00:00</published><updated>2018-01-20T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Visiting-Writers</id><content type="html" xml:base="http://127.0.0.1:4000/Visiting-Writers/">&lt;p&gt;Living and working from the &lt;strong&gt;KAP Literary Center&lt;/strong&gt;, Katherine Anne Porter’s childhood home, as the Writer-in-Residence of Texas State University, I produced the Visiting Writers Series for three years, hosting author readings at two locations, craft talks, workshops, and book signings. From financial to contracts to publicity to event coordination, I directed over 30 writer visits and over 60 events total, organizing travel  and hospitality details, and more for writers such as George Saunders, Annie Proulx, Sandra Cisneros, Robert Stone, Tim O’Brien, Karen Russell, and more.&lt;/p&gt;
+&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/ABC_Story_Dept_2016-03-08_22-46-23__DSC1286-2560x1709.jpg" /></entry><entry><title type="html">Visiting Writers Series</title><link href="http://127.0.0.1:4000/Visiting-Writers/" rel="alternate" type="text/html" title="Visiting Writers Series" /><published>2018-01-20T00:00:00+00:00</published><updated>2018-01-20T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Visiting-Writers</id><content type="html" xml:base="http://127.0.0.1:4000/Visiting-Writers/">&lt;p&gt;Living and working from the &lt;strong&gt;KAP Literary Center&lt;/strong&gt;, Katherine Anne Porter’s childhood home, as the Writer-in-Residence of Texas State University, I produced the Visiting Writers Series for three years, hosting author readings at two locations, craft talks, workshops, and book signings. From financial to contracts to publicity to event coordination, I directed over 30 writer visits and over 60 events total, organizing travel  and hospitality details, and more for writers such as George Saunders, Annie Proulx, Sandra Cisneros, Robert Stone, Tim O’Brien, Karen Russell, and more.&lt;/p&gt;
 
 &lt;figure&gt;
     
@@ -164,21 +179,36 @@
     &lt;a href=&quot;../assets/img/timobrien.png&quot;&gt;&lt;img src=&quot;../assets/img/timobrien.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">Writer-in-Residence and Visiting Writers Series Coordinator</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/1200px-Katherine_anne_porter_house_2009.jpg" /></entry><entry><title type="html">Austin Bat Cave Website</title><link href="http://127.0.0.1:4000/ABC-Website/" rel="alternate" type="text/html" title="Austin Bat Cave Website" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/ABC-Website</id><content type="html" xml:base="http://127.0.0.1:4000/ABC-Website/">&lt;p&gt;&lt;strong&gt;Austin Bat Cave&lt;/strong&gt; (ABC) is an organization tackling serious issues–child literacy, self-expression, and closing the educational gap–in a playful and creative manner. A few creatives developed the organizational voice, wrote, designed, and sourced all of the material for the site, still used today.&lt;/p&gt;
+&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/1200px-Katherine_anne_porter_house_2009.jpg" /></entry><entry><title type="html">Austin Bat Cave Website</title><link href="http://127.0.0.1:4000/ABC-Website/" rel="alternate" type="text/html" title="Austin Bat Cave Website" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/ABC-Website</id><content type="html" xml:base="http://127.0.0.1:4000/ABC-Website/">&lt;p&gt;&lt;strong&gt;Austin Bat Cave&lt;/strong&gt; (ABC) is an organization tackling serious issues–child literacy, self-expression, and closing the educational gap–in a playful manner. A few creatives developed the organizational voice, wrote, designed, and sourced all of the material for the site, still used today.&lt;/p&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/rebrand-site.jpg&quot;&gt;&lt;img src=&quot;../assets/img/rebrand-site.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Applied brand standards throughout.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;figure&gt;
     
     &lt;a href=&quot;../assets/img/missionpage.jpg&quot;&gt;&lt;img src=&quot;../assets/img/missionpage.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;a href=&quot;../assets/img/logospage.jpg&quot;&gt;&lt;img src=&quot;../assets/img/logospage.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;ABC's mission&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
     
-    &lt;a href=&quot;../assets/img/sarahandkatie.jpg&quot;&gt;&lt;img src=&quot;../assets/img/sarahandkatie.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;../assets/img/logospage.png&quot;&gt;&lt;img src=&quot;../assets/img/logospage.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;a href=&quot;../assets/img/rebrand-site.jpg&quot;&gt;&lt;img src=&quot;../assets/img/rebrand-site.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;Landing page&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
     
-    &lt;figcaption&gt;Applied brand standards throughout. Design: Lewis Carnegie&lt;/figcaption&gt;
+    &lt;a href=&quot;../assets/img/sarahandkatie.png&quot;&gt;&lt;img src=&quot;../assets/img/sarahandkatie.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u8pOnDVbqE0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.austinbatcave.org&quot;&gt;View The Site&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Project Director. Designed layout to fit the specific needs of the organization, led project, wrote content, sourced images.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/rebrand-site.jpg" /></entry></feed>
+&lt;p&gt;&lt;a href=&quot;http://www.austinbatcave.org&quot;&gt;View The Site&lt;/a&gt;&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/rebrand-site.jpg" /></entry></feed>

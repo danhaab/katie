@@ -35,8 +35,10 @@ I've also written and published both fiction and nonfiction. Shaping language an
 {% endcapture %}
 {% include gallery images=images caption="Example of one of the hundreds of press releases written and distributed." cols=1%}
 
-More samples:
+---
 
-<a href="https://blog.politicsmeanspolitics.com/@katiehaab">Medium</a>
-<a href="http://burrowpress.com/tag/katie-angermeier/">Rise Awake</a>
-<a href="https://austinbatcave.org/2015/02/10/lewis-carnegie-a-love-story/">Blog Post Sample</a>
+**More samples:**
+
+<p><a href="https://blog.politicsmeanspolitics.com/@katiehaab">Medium</a></p>
+<p><a href="http://burrowpress.com/tag/katie-angermeier/">Short Fiction</a></p>
+<p><a href="https://austinbatcave.org/2015/02/10/lewis-carnegie-a-love-story/">Blog Post Sample</a></p>
