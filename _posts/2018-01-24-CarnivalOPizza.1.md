@@ -3,7 +3,7 @@ title: Carnival O' Pizza
 date: 2018-01-23 00:00:00 Z
 
 layout: post
-image: "../assets/img/carnival.jpg"
+image: "../assets/img/carnivalhero.jpg"
 jobtitle: Coordinator
 jobdescription: 
 event: true
