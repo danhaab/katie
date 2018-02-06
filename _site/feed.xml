@@ -1,40 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2018-02-04T20:30:22+00:00</updated><id>http://127.0.0.1:4000/</id><title type="html">Katie Angermeier Haab</title><subtitle>Katie is the best!</subtitle><entry><title type="html">Music</title><link href="http://127.0.0.1:4000/Music/" rel="alternate" type="text/html" title="Music" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Music</id><content type="html" xml:base="http://127.0.0.1:4000/Music/">&lt;p&gt;Over the past 20 years, from production and promotion to hospitality to publicity, I’ve worked concerts. Large-scale shows, multi-day festivals, intimate fundraisers, or SXSW showcases, I’ve done a little bit of everything.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2018-02-06T08:18:38+00:00</updated><id>http://127.0.0.1:4000/</id><title type="html">Katie Angermeier Haab</title><subtitle>Katie is the best!</subtitle><entry><title type="html">Music</title><link href="http://127.0.0.1:4000/Music/" rel="alternate" type="text/html" title="Music" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Music</id><content type="html" xml:base="http://127.0.0.1:4000/Music/">&lt;p&gt;Over the past 20 years, from production and promotion to hospitality to publicity to ticketing, I’ve worked concerts. Large-scale shows, multi-day festivals, intimate fundraisers, or SXSW showcases: I’ve done a little bit of everything.&lt;/p&gt;
 
 &lt;figure&gt;
     
     &lt;a href=&quot;../assets/img/music-hero.jpg&quot;&gt;&lt;img src=&quot;../assets/img/music-hero.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;a href=&quot;../assets/img/music1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/music1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Production/Promotion: Bill Callahan at a sold-out fundraiser.&lt;/figcaption&gt;
+    &lt;figcaption&gt;Bill Callahan and band at a sold-out fundraiser&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;hr /&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/music1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/music1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Poster design for fundraiser&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Austin legend &lt;strong&gt;Bill Callahan&lt;/strong&gt;, a long-time supporter of Austin Bat Cave, donated his talent for a fundraiser. I coordinated the intimate, yet sold-out event: promotion, publicity, PR, marketing, design, ticketing, and settling.&lt;/p&gt;
 
 &lt;figure&gt;
     
     &lt;a href=&quot;../assets/img/music4.jpg&quot;&gt;&lt;img src=&quot;../assets/img/music4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;figcaption&gt;Production: Mother Falcon at a fundraiser.&lt;/figcaption&gt;
+    &lt;figcaption&gt;Mother Falcon at a fundraiser&lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Mother Falcon&lt;/strong&gt; played a fundraising event that I managed at &lt;strong&gt;Gibson Studios&lt;/strong&gt; in Austin, Texas.&lt;/p&gt;
 
 &lt;figure&gt;
     
     &lt;a href=&quot;../assets/img/music5.jpg&quot;&gt;&lt;img src=&quot;../assets/img/music5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;figcaption&gt;Production and Manager: SXSW Showcase line-up where our organization teamed up with Amy Poehler's Smart Girls at the Party to have kids watch and interview bands. &lt;/figcaption&gt;
+    &lt;figcaption&gt;Hospital Ships at showcase during SXSW&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Austin Bat Cave&lt;/strong&gt; teamed up with &lt;strong&gt;Amy Poehler’s Smart Girls at the Party&lt;/strong&gt; for a showcase and interview session where young girls interviewed bands during South by Southwest in Austin, Texas.&lt;/p&gt;
 
 &lt;figure&gt;
     
     &lt;a href=&quot;../assets/img/music2.jpg&quot;&gt;&lt;img src=&quot;../assets/img/music2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
+    &lt;figcaption&gt;Liberty Hall where I often worked shows in Lawrence, Kansas&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    
     &lt;a href=&quot;../assets/img/music3.jpg&quot;&gt;&lt;img src=&quot;../assets/img/music3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/music-hero.jpg" /></entry><entry><title type="html">Books</title><link href="http://127.0.0.1:4000/Anthologies/" rel="alternate" type="text/html" title="Books" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Anthologies</id><content type="html" xml:base="http://127.0.0.1:4000/Anthologies/">&lt;p&gt;For the &lt;strong&gt;Austin Bat Cave&lt;/strong&gt; anthologies, stylish yet playful was the aesthetic. The important content–short stories about the zombie apocalypse, poems about ice cream, and essays about how difficult it is to be a teenager–was written by children. The rest of each project was finished by only a few plucky creatives, overseen by me from imagination to conception. Each child writer received a free copy for their bookshelves. Anthologies would be sold and distributed to volunteers, fans, funders, and supporters of Austin Bat Cave.&lt;/p&gt;
+    &lt;figcaption&gt;The Bottleneck where I often worked shows in Lawrence, Kansas&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In my early twenties in Kansas, I learned about music through working in the music industry with several incredible women (and a few men).&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/music-hero.jpg" /></entry><entry><title type="html">Books</title><link href="http://127.0.0.1:4000/Anthologies/" rel="alternate" type="text/html" title="Books" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Anthologies</id><content type="html" xml:base="http://127.0.0.1:4000/Anthologies/">&lt;p&gt;For the &lt;strong&gt;Austin Bat Cave&lt;/strong&gt; anthologies, stylish yet playful was the aesthetic. The important content–short stories about the zombie apocalypse, poems about ice cream, and essays about how difficult it is to be a teenager–was written by children. The rest of each project was finished by only a few plucky creatives, overseen by me from imagination to conception. Each child writer received a free copy for their bookshelves. Anthologies would be sold and distributed to volunteers, fans, funders, and supporters of Austin Bat Cave.&lt;/p&gt;
 
 &lt;h2 id=&quot;are-you-there-godzilla-its-me-mothra&quot;&gt;Are you there, Godzilla? It’s Me, Mothra.&lt;/h2&gt;
 
@@ -84,30 +100,48 @@
 
 &lt;p&gt;In &lt;strong&gt;Lift Off&lt;/strong&gt; I wrote and edited content.&lt;/p&gt;
 
-&lt;p&gt;All designs by &lt;a href=&quot;http://lewiscarnegie.com&quot;&gt;Lewis Carnegie&lt;/a&gt;&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg" /></entry><entry><title type="html">Rebranding</title><link href="http://127.0.0.1:4000/Rebrand/" rel="alternate" type="text/html" title="Rebranding" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Rebrand</id><content type="html" xml:base="http://127.0.0.1:4000/Rebrand/">&lt;p&gt;Worked with world-class design team to imagine, update, and define brand standards across every platform from web presence to merchandise to press packages for a popular literary charity in Austin, Texas.&lt;/p&gt;
+&lt;p&gt;All designs by &lt;a href=&quot;http://lewiscarnegie.com&quot;&gt;Lewis Carnegie&lt;/a&gt;&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/IMG_1056-ABC-Anthology-2016-1928.jpg" /></entry><entry><title type="html">Rebranding</title><link href="http://127.0.0.1:4000/Rebrand/" rel="alternate" type="text/html" title="Rebranding" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Rebrand</id><content type="html" xml:base="http://127.0.0.1:4000/Rebrand/">&lt;p&gt;Worked with world-class design team to imagine, update, and define brand standards across every platform for Austin Bat Cave (ABC), a popular literary charity in Austin, Texas. From web presence to merchandise to press packages, we&lt;/p&gt;
 
 &lt;figure&gt;
     
     &lt;a href=&quot;../assets/img/abc-web2-5-1928.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-5-1928.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;a href=&quot;../assets/img/abc-web2-6-1928-1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-6-1928-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;../assets/img/rebrand-site.jpg&quot;&gt;&lt;img src=&quot;../assets/img/rebrand-site.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Design: Lewis Carnegie&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/abc-web2-5-1928.jpg" /></entry><entry><title type="html">Carnival O’ Pizza</title><link href="http://127.0.0.1:4000/CarnivalOPizza.1/" rel="alternate" type="text/html" title="Carnival O' Pizza" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/CarnivalOPizza.1</id><content type="html" xml:base="http://127.0.0.1:4000/CarnivalOPizza.1/">&lt;p&gt;For five years, I was a point-person for a large-scale community carnival fundraiser, bringing together hundreds of community families to play dozens of carnival games and singular good times, all pizza-related and on-brand. I coordinated and recruited over 120 volunteers and worked with a stellar team of joyful professionals to raise a large portion of the annual budget for a local charity organization.&lt;/p&gt;
+    &lt;figcaption&gt;Business cards, logos, and colors&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Sitting down with designers at &lt;strong&gt;Lewis Carnegie&lt;/strong&gt; to rebrand &lt;strong&gt;ABC&lt;/strong&gt; were joyful meetings. Decisions were made efficiently and unanimously between board members, staff, and designers.&lt;/p&gt;
 
 &lt;figure&gt;
     
-    &lt;a href=&quot;../assets/img/carnival.jpg&quot;&gt;&lt;img src=&quot;../assets/img/carnival.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;../assets/img/abc-web2-6-1928-1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/abc-web2-6-1928-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Example of some merchandise&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You put a bat+pencil logo on anything and suddenly you’re stylish.&lt;/p&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/rebrand-site.jpg&quot;&gt;&lt;img src=&quot;../assets/img/rebrand-site.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Website landing page&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The organization was over-the-moon at their new web design.&lt;/p&gt;
+
+&lt;p&gt;All designs by &lt;strong&gt;Lewis Carnegie&lt;/strong&gt;&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/abc-web2-5-1928.jpg" /></entry><entry><title type="html">Carnival O’ Pizza</title><link href="http://127.0.0.1:4000/CarnivalOPizza/" rel="alternate" type="text/html" title="Carnival O' Pizza" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/CarnivalOPizza</id><content type="html" xml:base="http://127.0.0.1:4000/CarnivalOPizza/">&lt;p&gt;For five years, I was a point-person for a large-scale community carnival fundraiser, bringing together hundreds of community families to play dozens of carnival games and singular good times, all pizza-related and on-brand. I coordinated and recruited over 120 volunteers and worked with a stellar team of joyful professionals to raise a large portion of the annual budget for a local charity organization.&lt;/p&gt;
+
+&lt;figure&gt;
     
     &lt;a href=&quot;../assets/img/carnival1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/carnival1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;../assets/img/carnival4.jpg&quot;&gt;&lt;img src=&quot;../assets/img/carnival4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;a href=&quot;../assets/img/carnival2.jpg&quot;&gt;&lt;img src=&quot;../assets/img/carnival2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;a href=&quot;../assets/img/carnival3.jpg&quot;&gt;&lt;img src=&quot;../assets/img/carnival3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;a href=&quot;../assets/img/carnival4.jpg&quot;&gt;&lt;img src=&quot;../assets/img/carnival4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;../assets/img/carnival.jpg&quot;&gt;&lt;img src=&quot;../assets/img/carnival.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/carnivalhero.jpg" /></entry><entry><title type="html">Anthology Launches</title><link href="http://127.0.0.1:4000/BookLaunches/" rel="alternate" type="text/html" title="Anthology Launches" /><published>2018-01-23T00:00:00+00:00</published><updated>2018-01-23T00:00:00+00:00</updated><id>http://127.0.0.1:4000/BookLaunches</id><content type="html" xml:base="http://127.0.0.1:4000/BookLaunches/">&lt;p&gt;After the production and printing of &lt;strong&gt;Austin Bat Cave’s&lt;/strong&gt; annual anthologies, they would be distributed to the children writers that contributed. We’d threw these kiddos book launch parties–six that I organized–where the community celebrated the children’s work. We’d listen to them read, distribute the books, and mingle over auctions, activities, food, drinks, and music. Party time!&lt;/p&gt;
@@ -146,7 +180,7 @@
     &lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.oharaslanding.com&quot;&gt;View The Site&lt;/a&gt;&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/oharas-hero.jpg" /></entry><entry><title type="html">Eat Your Words</title><link href="http://127.0.0.1:4000/EatYourWords/" rel="alternate" type="text/html" title="Eat Your Words" /><published>2018-01-22T00:00:00+00:00</published><updated>2018-01-22T00:00:00+00:00</updated><id>http://127.0.0.1:4000/EatYourWords</id><content type="html" xml:base="http://127.0.0.1:4000/EatYourWords/">&lt;p&gt;Imagined and carried out all aspects of upscale yet comfortable storytelling fundraising event with a dynamite team, featuring stories and five-star dishes from respected Austin chefs and foodies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.oharaslanding.com&quot;&gt;View The Site&lt;/a&gt;&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/oharashero.jpg" /></entry><entry><title type="html">Eat Your Words</title><link href="http://127.0.0.1:4000/EatYourWords/" rel="alternate" type="text/html" title="Eat Your Words" /><published>2018-01-22T00:00:00+00:00</published><updated>2018-01-22T00:00:00+00:00</updated><id>http://127.0.0.1:4000/EatYourWords</id><content type="html" xml:base="http://127.0.0.1:4000/EatYourWords/">&lt;p&gt;Imagined and carried out all aspects of upscale yet comfortable storytelling fundraising event with a dynamite team, featuring stories and five-star dishes from respected Austin chefs and foodies.&lt;/p&gt;
 
 &lt;figure&gt;
     
