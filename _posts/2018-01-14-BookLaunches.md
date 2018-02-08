@@ -25,6 +25,8 @@ After the production and printing of **Austin Bat Cave's** annual anthologies, t
 {% endcapture %}
 {% include gallery images=images caption="Authors were the focus of each event, our heroes." cols=1%}
 
+The highlight of each anthology launch were the student readings. They would recite or read their work to an audience of peers, community members, and families.
+
 {% capture images %}
   ../assets/img/anthology1.jpg
 {% endcapture %}
