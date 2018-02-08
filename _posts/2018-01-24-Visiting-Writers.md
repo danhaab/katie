@@ -16,9 +16,9 @@ Living and working from the **KAP Literary Center**, Katherine Anne Porter's chi
  
 {% capture images %}
 	../assets/img/Cisneros_Reading32.jpg
-  ../assets/img/karenrussell.png
+  ../assets/img/karenrussell.jpg
   ../assets/img/michaeldickman.png
-  ../assets/img/timobrien.png
+  ../assets/img/timobrien.jpg
   
 {% endcapture %}
 {% include gallery images=images caption="" cols=1%}

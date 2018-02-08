@@ -30,7 +30,7 @@ excerpt: excerpt
 {% include gallery images=images caption="Landing page" cols=1%}
 
 {% capture images %}
-  ../assets/img/sarahandkatie.png
+  ../assets/img/sarahandkatie.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=1%}
 

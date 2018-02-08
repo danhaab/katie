@@ -31,7 +31,7 @@ I've also written and published both fiction and nonfiction. Shaping language an
 {% include gallery images=images caption="I wrote and/or edited copy all aspects of print materials under my management." cols=1%}
 
 {% capture images %}
-   ../assets/img/writingpressrelease.png
+   ../assets/img/writingpressrelease.jpg
 {% endcapture %}
 {% include gallery images=images caption="Example of one of the hundreds of press releases written and distributed." cols=1%}
 
