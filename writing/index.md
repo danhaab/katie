@@ -20,22 +20,22 @@ I’ve also written and published both fiction and nonfiction.
 {% capture images %}
 ../assets/img/writingintro.png
 {% endcapture %}
-{% include gallery images=images caption="An introduction to a print anthology (and an amazing 'poor-trait' of me holding a duck)." cols=1%}
+{% include gallery images=images caption="An introduction to a print anthology (and an amazing 'poor-trait' of me holding a duck)" cols=1%}
 
 {% capture images %}
   ../assets/img/writingweb.png
   {% endcapture %}
-{% include gallery images=images caption="Sourced and wrote copy for multiple websites. " cols=1%}
+{% include gallery images=images caption="Sourced and wrote copy for multiple websites " cols=1%}
 
 {% capture images %}
   ../assets/img/writingfrontmatter.png
    {% endcapture %}
-{% include gallery images=images caption="I wrote and/or edited copy all aspects of print materials under my management." cols=1%}
+{% include gallery images=images caption="I wrote and/or edited copy all aspects of print materials under my management" cols=1%}
 
 {% capture images %}
    ../assets/img/writingpressrelease.jpg
 {% endcapture %}
-{% include gallery images=images caption="Example of one of the hundreds of press releases written and distributed." cols=1%}
+{% include gallery images=images caption="Example of one of the hundreds of press releases written and distributed" cols=1%}
 
 ---
 
