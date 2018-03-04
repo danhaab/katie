@@ -13,7 +13,7 @@ excerpt: excerpt
 For **Katherine Anne Porter Literary Center's** Visiting Writers Series and **Austin Bat Cave's** programming, I coordinated over 350 writing workshops for thousands of students, ages 6 and up. Whether it was managing an intimate workshop between a pulitzer-winning author and university students or an internationally-known pizza commentator and middle school kids, I've organized everything from curriculum to transportation. 
  
 {% capture images %}
-	../assets/img/Smart_Girls_Interview_Workshop_preview.jpeg
+	../assets/img/workshops3.jpeg
 {% endcapture %}
 {% include gallery images=images caption="Amy Poehler's Smart Girls at the Party girls interview band members" cols=1%}
 
@@ -28,7 +28,7 @@ For **Katherine Anne Porter Literary Center's** Visiting Writers Series and **Au
 {% include gallery images=images caption="Young writers at Austin Bat Cave" cols=1%}
 
 {% capture images %}
-  ../assets/img/workshops3.jpeg
+  ../assets/img/workshops.jpeg
 {% endcapture %}
 {% include gallery images=images caption="Lena Dunham, Grace Dunham, and ABC volunteers for a workshop focusing on young women and strength" cols=1%}
 
