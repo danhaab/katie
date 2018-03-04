@@ -8,11 +8,11 @@ comments: true
 show: true
 ---
 
-Shaping language and developing clear communications has been my professional, personal, and educational focus for over 15 years.
+Shaping language has been my professional, personal, and educational focus for over 15 years.
 
 In the business world, I wrote, edited, and established standards for various material, including creating the overall voice for an organization. I wrote website content, grants, fundraising campaigns, blog posts, newsletters, press releases, events packages, author and artist bios, employee and board handbooks, social media strategy and day-to-day posts, long-term campaigns, front and end matter to all print books, copyedited hundreds of pages of book material, wrote video and advertising content, pamphlets, promotional material, and all front-facing media, while delegating tasks to staff and trustees as necessary. I would begin each project with strategy: outline content, establish deadline, and then pinpoint the audience and potential reach in order to most efficiently and effectively distribute the information.
 
-As a writer-in-residence for a university, an appointed position awarded to one MFA graduate every 3-5 years, I wrote all events material from bios to interviews to official visit packets, as well as managing and writing a complete website overhaul hand-in-hand with the university. I did the same for the MFA program’s webpage and the literary journal where I served as both Managing Editor and PR Editor.
+As a writer-in-residence for a university, an appointed position awarded to one MFA graduate every 3-5 years, I wrote all event materials from bios to interviews to official visit packets, as well as managing and writing a complete website overhaul hand-in-hand with the university. I did the same for the MFA program’s webpage and the literary journal where I served as both Managing Editor and PR Editor.
 
 I’ve also written and published both fiction and nonfiction. 
 

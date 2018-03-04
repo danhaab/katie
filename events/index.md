@@ -1,7 +1,7 @@
 ---
-title: Event Coordination
+title: Events
 layout: events
-excerpt: Event Coordination
+excerpt: Events
 comments: false
 ---
 
