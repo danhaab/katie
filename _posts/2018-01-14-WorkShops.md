@@ -2,7 +2,7 @@
 title: Workshops
 date: 2018-01-20 00:00:00 Z
 layout: post
-image: "../assets/img/kap-hero.jpg"
+image: "../assets/img/workshops5.jpeg"
 jobtitle: Coordinator
 jobdescription: Imagined, developed, and organized
 event: true
