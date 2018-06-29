@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2018-02-08T10:16:34+00:00</updated><id>http://127.0.0.1:4000/</id><title type="html">Katie Angermeier Haab</title><subtitle>Katie is the best!</subtitle><entry><title type="html">Music</title><link href="http://127.0.0.1:4000/Music/" rel="alternate" type="text/html" title="Music" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Music</id><content type="html" xml:base="http://127.0.0.1:4000/Music/">&lt;p&gt;Over the past 20 years, from production and promotion to hospitality to publicity to ticketing, I’ve worked concerts. Large-scale shows, multi-day festivals, intimate fundraisers, or SXSW showcases: I’ve done a little bit of everything.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2018-06-29T14:35:37+00:00</updated><id>http://127.0.0.1:4000/</id><title type="html">Katie Angermeier Haab</title><subtitle>Katie Angermeier Haab</subtitle><entry><title type="html">The Second Shelf</title><link href="http://127.0.0.1:4000/The-Second-Shelf/" rel="alternate" type="text/html" title="The Second Shelf" /><published>2018-06-29T00:00:00+00:00</published><updated>2018-06-29T00:00:00+00:00</updated><id>http://127.0.0.1:4000/The-Second-Shelf</id><content type="html" xml:base="http://127.0.0.1:4000/The-Second-Shelf/">&lt;p&gt;&lt;strong&gt;The Second Shelf&lt;/strong&gt; is a modern feminist rare books business, launched in London spring of 2018. In eight weeks working part time, I managed the business launch: established business systems, established and integrated platforms, its corresponding quarterly publication, wrote a business plan, and served as contacts for vendors, staff, and contributors. I coordinated branding across all platforms from print to social to websites to packaging to publications and managed the overall voice, organized communications and marketing, wrote copy for the publication, web content, publicity, social media, and newsletters.&lt;/p&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/tss.jpg&quot;&gt;&lt;img src=&quot;../assets/img/tss.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/tss2.png&quot;&gt;&lt;img src=&quot;../assets/img/tss2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Merchandise coordination&lt;/strong&gt; from design to vendors.&lt;/p&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/tss3.png&quot;&gt;&lt;img src=&quot;../assets/img/tss3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;The Second Shelf website&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Wrote &lt;strong&gt;web content&lt;/strong&gt; and managed launch of all sites, three total.&lt;/p&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;../assets/img/tss4.png&quot;&gt;&lt;img src=&quot;../assets/img/tss4.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Successful crowdsourcing campaign&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Wrote content, organized details, met deadlines, and exceeded goals for &lt;strong&gt;crowdsourcing campaign&lt;/strong&gt;.&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/tss.jpg" /></entry><entry><title type="html">Music</title><link href="http://127.0.0.1:4000/Music/" rel="alternate" type="text/html" title="Music" /><published>2018-01-24T00:00:00+00:00</published><updated>2018-01-24T00:00:00+00:00</updated><id>http://127.0.0.1:4000/Music</id><content type="html" xml:base="http://127.0.0.1:4000/Music/">&lt;p&gt;Over the past 20 years, from production and promotion to hospitality to publicity to ticketing, I’ve worked concerts. Large-scale shows, multi-day festivals, intimate fundraisers, or SXSW showcases: I’ve done a little bit of everything.&lt;/p&gt;
 
 &lt;figure&gt;
     
@@ -185,6 +219,8 @@
     &lt;figcaption&gt;Authors were the focus of each event, our heroes.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;The highlight of each anthology launch were the student readings. They would recite or read their work to an audience of peers, community members, and families.&lt;/p&gt;
+
 &lt;figure&gt;
     
     &lt;a href=&quot;../assets/img/anthology1.jpg&quot;&gt;&lt;img src=&quot;../assets/img/anthology1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
@@ -252,36 +288,4 @@
     &lt;a href=&quot;../assets/img/timobrien.jpg&quot;&gt;&lt;img src=&quot;../assets/img/timobrien.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/1200px-Katherine_anne_porter_house_2009.jpg" /></entry><entry><title type="html">Austin Bat Cave Website</title><link href="http://127.0.0.1:4000/ABC-Website/" rel="alternate" type="text/html" title="Austin Bat Cave Website" /><published>2018-01-14T00:00:00+00:00</published><updated>2018-01-14T00:00:00+00:00</updated><id>http://127.0.0.1:4000/ABC-Website</id><content type="html" xml:base="http://127.0.0.1:4000/ABC-Website/">&lt;p&gt;&lt;strong&gt;Austin Bat Cave&lt;/strong&gt; (ABC) is an organization tackling serious issues–child literacy, self-expression, and closing the educational gap–in a playful manner. A few creatives developed the organizational voice, wrote, designed, and sourced all of the material for the site, still used today.&lt;/p&gt;
-
-&lt;figure&gt;
-    
-    &lt;a href=&quot;../assets/img/rebrand-site.jpg&quot;&gt;&lt;img src=&quot;../assets/img/rebrand-site.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Applied brand standards throughout.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    
-    &lt;a href=&quot;../assets/img/missionpage.jpg&quot;&gt;&lt;img src=&quot;../assets/img/missionpage.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;ABC's mission&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    
-    &lt;a href=&quot;../assets/img/logospage.png&quot;&gt;&lt;img src=&quot;../assets/img/logospage.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Landing page&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    
-    &lt;a href=&quot;../assets/img/sarahandkatie.jpg&quot;&gt;&lt;img src=&quot;../assets/img/sarahandkatie.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u8pOnDVbqE0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.austinbatcave.org&quot;&gt;View The Site&lt;/a&gt;&lt;/p&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/rebrand-site.jpg" /></entry></feed>
+&lt;/figure&gt;</content><summary type="html">excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000../assets/img/1200px-Katherine_anne_porter_house_2009.jpg" /></entry></feed>
