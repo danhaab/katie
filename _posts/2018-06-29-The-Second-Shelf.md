@@ -3,7 +3,7 @@ title: The Second Shelf
 date: 2018-06-29 00:00:00 Z
 layout: post
 image: "../assets/img/tss.jpg"
-jobtitle: Project Manager
+jobtitle: Operations Director
 jobdescription: Business Launch 
 comments: true
 excerpt: excerpt
